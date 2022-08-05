@@ -5,14 +5,14 @@ Add badges of your statistics to your profiles.
 
 # Codewars ⚔
 ## Basic badge ℹ
-> https://badger-badges.herokuapp.com/codewars/badge/**UserName**
+https://badger-badges.herokuapp.com/codewars/badge/**UserName**
 ```MARKDOWN
 ![Abd-Beltaji](https://badger-badges.herokuapp.com/codewars/badge/Abd-Beltaji)
 ```
 ![Abd-Beltaji](https://badger-badges.herokuapp.com/codewars/badge/Abd-Beltaji)
 
 ## Stats badge 📊
-> https://badger-badges.herokuapp.com/codewars/stats/**UserName**
+https://badger-badges.herokuapp.com/codewars/stats/**UserName**
 ```MARKDOWN
 ![Abd-Beltaji-Statistics](https://badger-badges.herokuapp.com/codewars/stats/Abd-Beltaji)
 ```
