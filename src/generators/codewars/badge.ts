@@ -6,7 +6,7 @@ export default async (user: string) => {
 		`https://www.codewars.com/api/v1/users/${user}`
 	)
 	const template = readFileSync(
-		process.cwd() + "/src/Templates/codewars/badge.svg"
+		process.cwd() + "/src/templates/codewars/badge.svg"
 	)
 	return format(template.toString(), {
 		userName: data.username,
