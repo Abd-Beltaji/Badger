@@ -5,14 +5,14 @@ Add badges of your statistics to your profiles.
 
 # Codewars ⚔
 ## Basic badge ℹ
-https://badger.onrender.com/codewars/badge/**UserName**
+https://badger.onrender.com/codewars/badge/USERNAME
 ```MARKDOWN
 ![Abd-Beltaji](https://badger.onrender.com/codewars/badge/Abd-Beltaji)
 ```
 ![Abd-Beltaji](https://badger.onrender.com/codewars/badge/Abd-Beltaji)
 
 ## Stats badge 📊
-https://badger.onrender.com/codewars/stats/**UserName**
+https://badger.onrender.com/codewars/stats/USERNAME
 ```MARKDOWN
 ![Abd-Beltaji-Statistics](https://badger.onrender.com/codewars/stats/Abd-Beltaji)
 ```
